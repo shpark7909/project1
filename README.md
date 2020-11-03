@@ -13,6 +13,8 @@
 
 - E-mail : shpark7909@naver.com
 
+- GitHub : [github.com/shpark7909](github.com/shpark7909)
+
 ## 사용 가능 언어
 > Java
 
@@ -27,6 +29,7 @@
 > Unity
 
 > R
+
 
 ## 학력
 
@@ -47,6 +50,7 @@
 - 운동💪
 
 주 5회를 할 정도로 운동에 큰 관심이 있으며, 체력적으로나 정신적으로도 많은 성장을 느꼈습니다.
+ 
 
 ## 성격
 
