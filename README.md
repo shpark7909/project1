@@ -18,15 +18,7 @@
 ## 사용 가능 언어
 > Java
 
-> Java Script
-
-> HTML
-
-> SQL
-
 > C
-
-> Unity
 
 > R
 
